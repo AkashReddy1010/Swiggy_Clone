@@ -222,7 +222,14 @@ body {
 
 @media (max-width: 576px){
     .topBarSection {
-        padding: 0 27px;
+        padding: 0 10px;
+    }
+    .searchBar input {
+        width: 100px;
+    }
+    .mediaChainSection h3 {
+        font-size: 0.72rem;
+        margin-top: 1.5rem;
     }
     .landingSection {
         padding: 0 10px;
