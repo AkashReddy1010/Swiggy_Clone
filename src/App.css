@@ -223,6 +223,8 @@ body {
 @media (max-width: 576px){
     .topBarSection {
         padding: 0 10px;
+        width: 100%;
+        max-width: 96%;
     }
     .searchBar input {
         width: 100px;
